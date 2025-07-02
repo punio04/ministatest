@@ -3243,8 +3243,8 @@ p {
 
   .home_movie .slick-next::after {
     margin-left: 40% !important;
-    border-top: 2px solid;
-    border-right: 2px solid;
+    border-top: 2px solid #000!important;
+    border-right: 2px solid #000!important;
   }
 
   #slick-slide04 {
@@ -4417,11 +4417,11 @@ p {
 
   .btn-cta2 a .microcopy2 {
     bottom: calc(100% + 0.5rem) !important;
-    left: 15px !important;
-    right: 10 !important;
+    left: 0px !important;
+    right: 0px !important;
     text-align: center !important;
     width: fit-content;
-    padding: 0 8px;
+    padding: 0px 13px;
     margin: 0 auto;
     font-size: 13px !important;
   }
