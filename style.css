@@ -2820,7 +2820,15 @@ body {
   letter-spacing: 0.09em;
   line-height: 2.13;
   text-align: center;
-  font-family: none;
+  font-family: Poppins,
+    "Noto Sans JP",
+    -apple-system,
+    blinkmacsystemfont,
+    "Segoe UI",
+    roboto,
+    "Helvetica Neue",
+    arial,
+    sans-serif;
 }
 
 #guardian .year_list {
@@ -2852,7 +2860,15 @@ body {
 #guardian .year_list>li .txt_wrap .txt_inner {
   position: relative;
   z-index: 1;
-  font-family: none;
+  font-family: Poppins,
+    "Noto Sans JP",
+    -apple-system,
+    blinkmacsystemfont,
+    "Segoe UI",
+    roboto,
+    "Helvetica Neue",
+    arial,
+    sans-serif;
 }
 
 #guardian .year_list>li .txt_wrap .event_wrap {
@@ -3348,18 +3364,18 @@ p {
   }
 
   .hero--catch p::before {
-    right: 90% !important;
+    right: 96% !important;
     bottom: 10rem !important;
   }
 
   .hero--catch p::after {
-    left: 90% !important;
+    left: 96% !important;
     bottom: 10rem !important;
   }
 
   .standard .hero--catch .fv_logo {
     top: calc(100% - 13.5rem);
-    right: 12.5rem;
+    right: 7.2rem;
     transition-delay: 1.5s;
   }
 
@@ -3684,6 +3700,33 @@ p {
     right: 25px;
     width: fit-content;
   }
+
+  .hero--catch p::before {
+    right: 67rem !important;
+    bottom: 10rem !important;
+  }
+
+  .hero--catch p::after {
+    left: 67rem !important;
+    bottom: 10rem !important;
+  }
+
+  .standard .hero--catch .fv_logo {
+    top: calc(100% - 13.5rem);
+    right: 13.8rem;
+    transition-delay: 1.5s;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .standard .hero--catch .fv_logo {
+    top: calc(100% - 13.5rem);
+    right: 13rem;
+    transition-delay: 1.5s;
+    width: 10.25rem;
+  }
+
 }
 
 @media screen and (max-width: 1000px) {
@@ -3749,6 +3792,37 @@ p {
     position: relative;
     margin-right: auto;
     margin-left: auto;
+  }
+
+  .hero--catch p::before {
+    right: 63rem !important;
+    bottom: 10rem !important;
+  }
+
+  .hero--catch p::after {
+    left: 63rem !important;
+    bottom: 10rem !important;
+  }
+
+  .standard .hero--catch .fv_logo {
+    top: calc(100% - 13.5rem);
+    right: 10rem;
+    transition-delay: 1.5s;
+    width: 10.25rem;
+  }
+
+  .standard .hero--icons li:nth-child(19) img {
+    right: 55.875rem !important;
+    top: 47.375rem !important;
+    width: 6.5625rem !important;
+  }
+
+  .standard .hero--imgs li:nth-child(2) img {
+    right: initial !important;
+    bottom: 60rem !important;
+    left: 47rem !important;
+    margin: auto;
+    width: 20rem !important;
   }
 }
 
@@ -3995,7 +4069,7 @@ p {
   .standard .hero--cont {
     left: 8%;
     right: 8%;
-    bottom: 9%;
+    bottom: 9% !important;
     justify-content: end;
   }
 
@@ -4241,8 +4315,8 @@ p {
   }
 
   .hero--catch p::before {
-    width: 1.25rem;
-    height: 1.7rem;
+    width: 1.25rem !important;
+    height: 1.7rem !important;
   }
 
   .hero--catch p::after {
@@ -4251,8 +4325,8 @@ p {
   }
 
   .hero--catch p::after {
-    width: 1.25rem;
-    height: 1.7rem;
+    width: 1.25rem !important;
+    height: 1.7rem !important;
   }
 
   .standard .hero--icons li:nth-child(8) img {
@@ -4303,7 +4377,7 @@ p {
     -ms-flex-align: center;
     align-items: center;
     width: auto !important;
-    padding: 0 8px !important;
+    padding: 0 32px !important;
     height: 50px;
     padding: 2px 0 0 0;
     background-color: #ff5a43;
@@ -4318,7 +4392,7 @@ p {
     right: 10 !important;
     text-align: center !important;
     width: auto;
-    font-size: 13px !important;
+    font-size: 16px !important;
   }
 
   .c-header__trial p a span::after {
@@ -4341,13 +4415,13 @@ p {
   }
 
   .btn.btn-cta2.btn-cta--full.btn-ctr.scroll_active.active {
-    margin: 155px auto 0;
-    width: 86%;
+    margin: 155px auto 0 !important;
+    width: 86% !important;
   }
 
   .btn.btn-cta.btn-cta--full.btn-ctr.scroll_active.active {
-    margin: 58px auto 0;
-    width: 76%;
+    margin: 45px auto 0 !important;
+    width: 86% !important;
   }
 
   .faq--icons li:nth-child(2) img {
@@ -4373,7 +4447,7 @@ p {
   }
 
   .refund span::before {
-    right: 22rem !important;
+    right: 24rem !important;
     bottom: 0 !important;
     width: 1.6rem !important;
     height: 2.8rem !important;
@@ -4382,7 +4456,7 @@ p {
   .refund span::after {
     content: "";
     position: absolute;
-    left: 22rem !important;
+    left: 24rem !important;
     bottom: 0 !important;
     width: 1.6rem !important;
     height: 2.8rem !important;
@@ -4399,7 +4473,7 @@ p {
   .btn-cta a .microcopy::after {
     content: "";
     position: absolute;
-    left: calc(100% - 0.5rem) !important;
+    left: calc(94% - 0.5rem) !important;
     bottom: 0;
     width: 1.25rem !important;
     height: 1.4375rem !important;
@@ -4411,7 +4485,7 @@ p {
   .btn-cta a .microcopy::before {
     content: "";
     position: absolute;
-    right: 100% !important;
+    right: 94% !important;
     bottom: 0 !important;
     width: 1.25rem !important;
     height: 1.4375rem !important;
@@ -4428,7 +4502,7 @@ p {
   .btn-cta a::before {
     content: "" !important;
     position: absolute !important;
-    left: 9rem !important;
+    left: 10rem !important;
     bottom: 10rem !important;
     right: auto !important;
     width: 6.3125rem !important;
@@ -4476,6 +4550,19 @@ p {
 
   .btn-cta2 a .microcopy2::before {
     right: 97%;
+  }
+
+  .gb-container-b0d45d08 {
+    width: 100%;
+  }
+
+  .gb-container-f5d36994 {
+    width: 100%;
+    order: 1;
+  }
+
+  .gb-container-a1676d99 {
+    width: 100%;
   }
 
   .btn-cta2 a .microcopy2::before {
