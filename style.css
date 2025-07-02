@@ -1335,10 +1335,6 @@ li#reason-4 {
     padding-bottom: 48px;
   }
 
-  .reprint_top li.reason-lists__items#reason-4>section.reason-box {
-    /* padding-bottom: 0; */
-  }
-
   .reprint_top .reason-box.forth .box-contents:last-child {
     margin-bottom: 0;
   }
@@ -1424,7 +1420,15 @@ img {
 
 .reason-box.forth .table {
   text-align: center;
-  font-family: "Noto Sans JP";
+  font-family: Poppins,
+    "Noto Sans JP",
+    -apple-system,
+    blinkmacsystemfont,
+    "Segoe UI",
+    roboto,
+    "Helvetica Neue",
+    arial,
+    sans-serif;
   width: 100%;
   font-weight: 300;
   min-width: 525px;
@@ -3250,8 +3254,8 @@ p {
 
   .home_movie .slick-prev::after {
     margin-right: 40% !important;
-    border-bottom: 2px solid;
-    border-left: 2px solid;
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
   }
 
   .home_movie .slick-slide {
@@ -3795,12 +3799,12 @@ p {
   }
 
   .hero--catch p::before {
-    right: 63rem !important;
+    right: 93% !important;
     bottom: 10rem !important;
   }
 
   .hero--catch p::after {
-    left: 63rem !important;
+    left: 93% !important;
     bottom: 10rem !important;
   }
 
@@ -4376,8 +4380,8 @@ p {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    width: auto !important;
-    padding: 0 32px !important;
+    width: 155px !important;
+    padding: 0 0px !important;
     height: 50px;
     padding: 2px 0 0 0;
     background-color: #ff5a43;
@@ -4386,13 +4390,40 @@ p {
     transition: background-color 0.2s ease-out;
   }
 
+  .hero--catch p::after {
+    left: 97% !important;
+    bottom: 5.3rem !important;
+  }
+
+  .hero--catch p::before {
+    right: 97% !important;
+    bottom: 5.3rem !important;
+  }
+
+  .c-header__inner {
+    left: 0px;
+    right: 0px;
+    width: fit-content;
+    height: 50px;
+  }
+
+  .home_movie .slick-next::after {
+    margin-left: 0% !important;
+  }
+
+  .home_movie .slick-prev::after {
+    margin-right: 0% !important;
+  }
+
   .btn-cta2 a .microcopy2 {
     bottom: calc(100% + 0.5rem) !important;
     left: 15px !important;
     right: 10 !important;
     text-align: center !important;
-    width: auto;
-    font-size: 16px !important;
+    width: fit-content;
+    padding: 0 8px;
+    margin: 0 auto;
+    font-size: 13px !important;
   }
 
   .c-header__trial p a span::after {
@@ -4420,7 +4451,7 @@ p {
   }
 
   .btn.btn-cta.btn-cta--full.btn-ctr.scroll_active.active {
-    margin: 45px auto 0 !important;
+    margin: 64px auto 0 !important;
     width: 86% !important;
   }
 
@@ -4503,7 +4534,7 @@ p {
     content: "" !important;
     position: absolute !important;
     left: 10rem !important;
-    bottom: 10rem !important;
+    bottom: 9rem !important;
     right: auto !important;
     width: 6.3125rem !important;
     height: 5.75rem !important;
@@ -4516,7 +4547,7 @@ p {
     content: "" !important;
     position: absolute !important;
     left: 7.5rem !important;
-    bottom: 12rem !important;
+    bottom: 10.5rem !important;
     right: auto !important;
     width: 11.3125rem !important;
     height: 6.75rem !important;
@@ -4541,8 +4572,8 @@ p {
     content: "";
     position: absolute;
     bottom: 0;
-    width: 2.1rem;
-    height: 3rem;
+    width: 1.8rem !important;
+    height: 2.4375rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 100% 5%, 0 100%);
     margin-bottom: 6px !important;
@@ -4569,8 +4600,8 @@ p {
     content: "";
     position: absolute;
     bottom: 0;
-    width: 2.1rem;
-    height: 3rem;
+    width: 1.8rem !important;
+    height: 2.4375rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 0 5%, 100% 100%);
     margin-bottom: 6px !important;
@@ -4714,6 +4745,31 @@ p {
 
   #wrapper {
     padding-top: 5rem !important;
+  }
+
+  .btn-cta2 a {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.75rem !important;
+    padding: 0.625rem 2.625rem 0.875rem 4rem !important;
+    font-size: 1.75rem !important;
+    border-radius: 0.625rem !important;
+    background-color: #ff5a43 !important;
+    line-height: normal;
+  }
+
+  .sec-voice-01 .box-voice-01 .txtbox .unit-title-03 {
+    font-size: 1.7rem;
+    margin-bottom: 5px;
+    margin-top: 15px;
+  }
+
+  span.sub_title {
+    font-size: 16px;
+  }
+
+  .btn-cta a {
+    line-height: normal;
   }
 
 }
