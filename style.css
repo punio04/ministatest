@@ -23,14 +23,14 @@
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--catch {
     line-height: 3 !important;
   }
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--catch strong {
     line-height: 1.2 !important;
   }
@@ -146,7 +146,7 @@ screen and (min-width: 67.5625em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(1) img {
     left: 1.8rem !important;
     top: 0.3rem !important;
@@ -155,7 +155,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(2) img {
     left: 32rem !important;
     top: 5rem !important;
@@ -163,7 +163,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(4) img {
     left: 19.875rem !important;
     top: 19rem !important;
@@ -172,7 +172,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(3) img {
     left: 56.5rem !important;
     top: 1rem !important;
@@ -181,7 +181,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(8) img {
     right: 1.3rem !important;
     top: 4rem !important;
@@ -190,7 +190,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(9) img {
     right: 34.25rem !important;
     top: 3.5rem !important;
@@ -198,7 +198,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(7) img {
     left: 7rem !important;
     top: 31.25rem !important;
@@ -206,7 +206,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(5) img {
     left: 19.75rem !important;
     top: 36.3rem !important;
@@ -215,7 +215,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(18) img {
     left: 1.8rem !important;
     top: 35.1875rem !important;
@@ -224,7 +224,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width:35.9375em) {
   .standard .hero--icons li:nth-child(14) img {
     right: 81rem !important;
     bottom: 7rem !important;
@@ -232,7 +232,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(15) img {
     right: 67.25rem !important;
     bottom: 3.25rem !important;
@@ -240,7 +240,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(16) img {
     right: 33.125rem !important;
     bottom: 5.625rem !important;
@@ -248,7 +248,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(19) img {
     right: 30.875rem !important;
     top: 28.375rem !important;
@@ -256,7 +256,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375emm) {
   .standard .hero--icons li:nth-child(13) img {
     right: 3.5rem !important;
     bottom: 6rem !important;
@@ -264,7 +264,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(20) img {
     left: 12rem !important;
     bottom: 10.65rem !important;
@@ -273,7 +273,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(21) img {
     left: 22rem !important;
     bottom: 0.25rem !important;
@@ -282,7 +282,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(11) img {
     right: 1.5rem !important;
     top: 30.125rem !important;
@@ -291,7 +291,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(17) img {
     right: 1.375rem !important;
     top: 47.1875rem !important;
@@ -300,7 +300,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(10) img {
     right: 22.125rem !important;
     top: 41rem !important;
@@ -309,7 +309,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(6) img {
     left: 109.6rem !important;
     bottom: 43rem !important;
@@ -318,7 +318,7 @@ screen and (min-width: 48em) {
 }
 
 @media print,
-screen and (min-width: 48em) {
+screen and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(12) img {
     right: 50rem !important;
     top: 39.125rem !important;
@@ -922,7 +922,7 @@ p.gb-headline-21c6dbdf {
   }
 
   .gb-container-b0d45d08 {
-    width: 100%;
+    width: 60%;
   }
 
   .gb-container-6032b7b4 {
@@ -939,7 +939,7 @@ p.gb-headline-21c6dbdf {
   }
 
   .gb-container-f5d36994 {
-    width: 100%;
+    width: 60%;
     order: 1;
   }
 
@@ -965,7 +965,7 @@ p.gb-headline-21c6dbdf {
   }
 
   .gb-container-a1676d99 {
-    width: 100%;
+    width: 60%;
   }
 }
 
@@ -2717,13 +2717,25 @@ body {
   .btn-cta a .microcopy::before {
     content: "";
     position: absolute;
-    right: 100%;
+    right: 94% !important;
     bottom: 0;
-    width: 1.25rem;
-    height: 1.4375rem;
+    width: 1.25rem !important;
+    height: 1.4375rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 0 5%, 100% 100%);
     margin-bottom: 6px;
+  }
+
+  .btn-cta a .microcopy::after {
+    content: "";
+    position: absolute;
+    left: calc(94% - 0.5rem) !important;
+    bottom: 0;
+    width: 1.25rem !important;
+    height: 1.4375rem !important;
+    background-color: var(--clr-blk);
+    clip-path: polygon(50% 0%, 100% 5%, 0 100%);
+    margin-bottom: 0px !important;
   }
 }
 
@@ -3364,7 +3376,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375emm) {
   .standard .hero--imgs li:nth-child(1) img {
     top: 0;
     right: -2.5rem !important;
@@ -3393,19 +3405,19 @@ p {
 
 
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--catch {
     line-height: 3 !important;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--catch strong {
     line-height: 1.2 !important;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(3) img {
     left: inherit !important;
     right: -4rem !important;
@@ -3415,7 +3427,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(1) img {
     left: -3rem !important;
     bottom: 36.75rem !important;
@@ -3424,14 +3436,14 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li img {
     display: block !important;
     scale: 0.75;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(4) img {
     left: -5rem !important;
     bottom: -1.5rem !important;
@@ -3440,7 +3452,7 @@ p {
 }
 
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(2) img {
     right: initial !important;
     bottom: 60rem !important;
@@ -3450,7 +3462,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(1) img {
     left: -0.5rem !important;
     top: -2.3rem !important;
@@ -3458,7 +3470,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(2) img {
     left: 15rem !important;
     top: 2rem !important;
@@ -3466,7 +3478,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(4) img {
     left: 66.5rem !important;
     top: 10rem !important;
@@ -3475,7 +3487,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(3) img {
     left: 1.5rem !important;
     top: 0rem !important;
@@ -3483,7 +3495,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(8) img {
     right: -1.2rem !important;
     top: 5rem !important;
@@ -3492,21 +3504,21 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(9) img {
     right: 29.25rem !important;
     top: 11.5rem !important;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(7) img {
     left: 18rem !important;
     top: 38.25rem !important;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(5) img {
     left: 8.75rem !important;
     top: 40.3rem !important;
@@ -3515,7 +3527,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(18) img {
     left: 0.8rem !important;
     top: 51.1875rem !important;
@@ -3524,14 +3536,14 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(14) img {
     right: 32rem !important;
     bottom: 5rem !important;
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(15) img {
     right: 4.25rem !important;
     bottom: 1.25rem !important;
@@ -3539,7 +3551,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(16) img {
     right: 9.125rem !important;
     bottom: 1.625rem !important;
@@ -3547,7 +3559,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(19) img {
     right: 61.875rem !important;
     top: 47.375rem !important;
@@ -3555,7 +3567,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(13) img {
     right: 4.5rem !important;
     bottom: 16rem !important;
@@ -3563,7 +3575,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(20) img {
     left: 6rem !important;
     bottom: 0.65rem !important;
@@ -3572,7 +3584,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(21) img {
     left: 22rem !important;
     bottom: 0.25rem !important;
@@ -3581,7 +3593,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(11) img {
     right: 1.5rem !important;
     top: 69.125rem !important;
@@ -3591,7 +3603,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(17) img {
     right: 1.375rem !important;
     top: 16.1875rem !important;
@@ -3600,7 +3612,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(10) img {
     right: 43.125rem !important;
     top: 71rem !important;
@@ -3610,7 +3622,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(6) img {
     left: 63.6rem !important;
     bottom: 12rem !important;
@@ -3619,7 +3631,7 @@ p {
   }
 }
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--icons li:nth-child(12) img {
     right: 1rem !important;
     top: 78.125rem !important;
@@ -3745,20 +3757,83 @@ p {
     top: 10px;
   }
 
+  .gb-container-f5d36994 {
+    width: 100%;
+    order: 1;
+  }
+
+  .gb-container-a1676d99 {
+    width: 100%;
+  }
+
+  .gb-container-b0d45d08 {
+    width: 100%;
+  }
+
   .btn.btn-cta.btn-cta--full.btn-ctr.scroll_active.active {
-    margin: 68px auto 0;
-    width: 60%;
+    margin: 58px auto 0 !important;
+    width: 47% !important;
+  }
+
+  .btn-cta a {
+    padding: 0.625rem 2.625rem 0.875rem 5.625rem !important;
   }
 
   .btn.btn-cta2.btn-cta--full.btn-ctr.scroll_active.active {
-    margin: 68px auto 0;
-    width: 60%;
+    margin: 155px auto 0 !important;
+    width: 47% !important;
+  }
+
+  .btn-cta2 a .microcopy2 {
+    bottom: calc(100% + 0.5rem) !important;
+    left: 15px !important;
+    right: 10 !important;
+    text-align: center !important;
+    width: auto;
+    font-size: 16px !important;
+  }
+
+  .home_voice {
+    padding-top: 5rem !important;
+    padding-bottom: 0px !important;
+  }
+
+  .sec-voice-01 {
+    padding: 2.5rem 0 0px;
+  }
+
+  .sec-voice-01 .box-voice-01 {
+    margin-top: 0px;
+  }
+
+  .planlist__discount__title,
+  .planlist__perlesson__title,
+  .planlist__reserve__title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36%;
+    padding: 1.2rem 0;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .planlist__price__per {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: .905rem;
+    color: #1b161c;
+    letter-spacing: .05em;
+  }
+
+  .inner-md3 {
+    width: 100% !important;
   }
 
   .btn-cta a::before {
     content: "" !important;
     position: absolute !important;
-    left: 9rem !important;
+    left: 10rem !important;
     bottom: 10.5rem !important;
     right: auto !important;
     width: 6.3125rem !important;
@@ -3766,6 +3841,16 @@ p {
     background: url(img/cta02_logo.png) no-repeat center center / cover !important;
     rotate: unset !important;
     border: none !important;
+  }
+
+  .faq--icons li:nth-child(2) img {
+    bottom: -0.6rem !important;
+    left: -3% !important;
+  }
+
+  .faq--icons li:nth-child(4) img {
+    bottom: 1.142857rem !important;
+    right: 8%;
   }
 
   .c-header__inner {
@@ -3804,7 +3889,6 @@ p {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    width: 180px;
     height: 50px;
     padding: 2px 0 0 0;
     background-color: #ff5a43;
@@ -3817,9 +3901,397 @@ p {
     display: inline-block;
     padding-left: 0px;
   }
+
+  .refund span::before {
+    right: 35rem !important;
+  }
+
+  .refund span::after {
+    left: 35rem !important;
+  }
+
+  .refund span::before {
+    width: 2rem;
+    height: 3rem;
+  }
+
+  .refund span::after {
+    width: 2rem;
+    height: 3rem;
+  }
+
+  .refund {
+    padding-top: 0rem;
+    padding-bottom: 5rem;
+  }
+
+  .planlist__price__title-txt,
+  .planlist__discount__title-txt,
+  .planlist__perlesson__title-txt,
+  .planlist__reserve__title-txt {
+    font-size: 1.3rem !important;
+    font-weight: 700;
+    line-height: normal;
+    color: #1b161c;
+  }
+
+  .planlist__discount__num {
+    font-size: .85rem !important;
+    font-weight: 400;
+    line-height: normal;
+    color: #1b161c;
+    letter-spacing: .02em;
+  }
+
+  .reprint_top .reason-box.forth .table .column.bizmates,
+  .reprint_top .reason-box.forth .table .column.other-company {
+    width: 190px;
+  }
+
+  .reprint_top .reason-box.forth .table .column.terms {
+    width: 120px;
+  }
+
+  .planlist__count__txt {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 3.0862rem;
+    color: #fff;
+    letter-spacing: .05em;
+  }
+
+  .planlist__name__txt {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: normal;
+    color: #fff;
+    letter-spacing: .05em;
+    text-align: center;
+  }
+
+  .planlist__price__container {
+    height: 10.375rem;
+  }
+
+  .planlist__name__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 3.8rem;
+  }
+
+  #guardian .year_list {
+    max-width: 80%;
+    padding: 0;
+    margin: 30px auto 0;
+  }
+
+
+  .fz-sp30 {
+    font-size: 2.3rem !important;
+  }
+
+  .standard .hero--cont {
+    left: 8%;
+    right: 8%;
+    bottom: 9%;
+    justify-content: end;
+  }
+
+  .standard .hero--catch {
+    font-size: 1.5rem !important;
+    z-index: 1;
+  }
+
+  .standard .hero--imgs li:nth-child(4) img {
+    left: 1rem !important;
+    bottom: 1rem !important;
+    width: 14rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(18) img {
+    left: 1.6rem !important;
+    top: 27.1875rem !important;
+    z-index: -1 !important;
+    width: 5.75rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(19) img {
+    right: 43.875rem !important;
+    top: 28.7rem !important;
+    width: 4.3rem !important;
+  }
+
+  .btn-cta2 a::before {
+    content: "" !important;
+    position: absolute !important;
+    left: 7.5rem !important;
+    bottom: 12rem !important;
+    right: auto !important;
+    width: 11.3125rem !important;
+    height: 6.75rem !important;
+    background: url(img/cta01_logo.png) no-repeat center center / cover !important;
+    rotate: unset !important;
+    border: none !important;
+  }
+
+  #wrapper {
+    padding-top: 5rem !important;
+  }
+
+  .section_pdg-top {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+  }
+
+  .lcl-question .lcl-question-sec__block.lcl-question-sec__block--reverse .lcl-question-sec-block__main:before {
+    right: -3.8vw;
+  }
+
+  .gb-container-3512cfbd {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .gb-container-b0d45d08 {
+    width: 65%;
+  }
+
+  .gb-container-f5d36994 {
+    width: 65%;
+    order: 1;
+  }
+
+  .gb-container-a1676d99 {
+    width: 65%;
+  }
+
+  .btn-cta2 a .microcopy2::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 2.25rem;
+    height: 3rem;
+    background-color: var(--clr-blk);
+    clip-path: polygon(50% 0%, 0 5%, 100% 100%);
+    margin-bottom: 6px !important;
+  }
+
+  .btn-cta2 a .microcopy2::after {
+    content: "";
+    position: absolute;
+    left: calc(98% - 0.5rem);
+    bottom: 0;
+    width: 2.25rem;
+    height: 3rem;
+    background-color: var(--clr-blk);
+    clip-path: polygon(50% 0%, 100% 5%, 0 100%);
+    margin-bottom: 6px !important;
+  }
+
+  #guardian {
+    margin-top: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .mgn-btm56 {
+    margin-bottom: 2.5rem !important;
+  }
+
+  .btn-cta2 a .microcopy2::after {
+    left: calc(93% - 0.5rem);
+  }
+
+  .btn-cta2 a .microcopy2::before {
+    right: 93%;
+  }
+
+  .standard .hero--icons li:nth-child(20) img {
+    left: 6rem !important;
+    bottom: 0.65rem !important;
+    z-index: -1;
+    width: 9.4375rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(14) img {
+    right: 26rem !important;
+    bottom: 3rem !important;
+    width: 4rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(13) img {
+    right: 4rem !important;
+    bottom: 15rem !important;
+    width: 1.9375rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(10) img {
+    right: 31.125rem !important;
+    top: 42rem !important;
+    z-index: -1 !important;
+    left: 41.25rem !important;
+    width: 3rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(7) img {
+    left: 12rem !important;
+    top: 23.25rem !important;
+    width: 3.5625rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(6) img {
+    left: 48.2rem !important;
+    bottom: 9rem !important;
+    z-index: -1 !important;
+    width: 4.8125rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(5) img {
+    left: 6.75rem !important;
+    top: 24.3rem !important;
+    z-index: -1 !important;
+    width: 3rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(12) img {
+    right: 1rem !important;
+    top: 47.125rem !important;
+    z-index: -1 !important;
+    left: 20.5rem !important;
+    width: 2rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(11) img {
+    right: 2rem !important;
+    top: 41.125rem !important;
+    z-index: -1 !important;
+    left: initial !important;
+    width: 2.375rem !important;
+  }
+
+  .standard .hero--imgs li:nth-child(3) img {
+    left: inherit !important;
+    right: 0rem !important;
+    bottom: 0.5rem !important;
+    top: 16rem !important;
+    width: 12rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(16) img {
+    right: 6.125rem !important;
+    bottom: 0.625rem !important;
+    width: 15.875rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(15) img {
+    right: 4.25rem !important;
+    bottom: 1.25rem !important;
+    width: 3.875rem !important;
+  }
+
+  .standard .hero--imgs li:nth-child(2) img {
+    right: initial !important;
+    bottom: 39rem !important;
+    left: 42rem !important;
+    margin: auto;
+    width: 10rem !important;
+  }
+
+  .standard .hero--imgs li:nth-child(1) img {
+    left: -0.5rem !important;
+  }
+
+  .standard .hero--imgs li:nth-child(1) img {
+    bottom: 36.75rem !important;
+    top: 1rem !important;
+    width: 16rem !important;
+  }
+
+  .standard .hero--icons li img {
+    display: block !important;
+    scale: 0.75;
+    width: 11.875rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(2) img {
+    left: 14rem !important;
+    top: 1.5rem !important;
+    width: 2.6875rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(3) img {
+    left: 1.5rem !important;
+    top: 0rem !important;
+    z-index: -1 !important;
+    width: 10.25rem !important;
+  }
+
+  .standard .hero--catch .fv_logo {
+    top: calc(100% - 8.9rem);
+    right: 5.2rem;
+    transition-delay: 1.5s;
+    width: 8.25rem;
+  }
+
+  .hero--catch p::before {
+    right: 97% !important;
+    bottom: 6.3rem !important;
+  }
+
+  .hero--catch p::before {
+    width: 1.25rem;
+    height: 1.7rem;
+  }
+
+  .hero--catch p::after {
+    left: 97% !important;
+    bottom: 6.3rem !important;
+  }
+
+  .hero--catch p::after {
+    width: 1.25rem;
+    height: 1.7rem;
+  }
+
+  .standard .hero--icons li:nth-child(8) img {
+    right: 0.5rem !important;
+    top: 2rem !important;
+    z-index: -1 !important;
+    width: 12rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(9) img {
+    right: 17.25rem !important;
+    top: 6.5rem !important;
+    width: 3.875rem !important;
+  }
+
+  .standard .hero--icons li:nth-child(17) img {
+    right: 2.2rem !important;
+    top: 9.1875rem !important;
+    z-index: -1 !important;
+    width: 1.9375rem !important;
+  }
+
+  .mgn-btm16 {
+    margin-top: 0rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .hero--circle.mgn-btm40.load_active.loaded img {
+    width: 21.5rem !important;
+  }
 }
 
 @media screen and (max-width: 500px) {
+  #guardian .year_list {
+    max-width: 100%;
+    padding: 0;
+    margin: 30px auto 0;
+  }
+
   .c-header__trial p a {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -3901,24 +4373,19 @@ p {
   }
 
   .refund span::before {
-    content: "";
-    position: absolute;
-    right: 22rem;
-    bottom: 0;
-    width: 1.6rem;
-    height: 2.8rem;
-    background-color: var(--clr-blk);
-    clip-path: polygon(50% 0%, 0 5%, 100% 100%);
-    margin-bottom: 0px;
+    right: 22rem !important;
+    bottom: 0 !important;
+    width: 1.6rem !important;
+    height: 2.8rem !important;
   }
 
   .refund span::after {
     content: "";
     position: absolute;
-    left: 22rem;
-    bottom: 0;
-    width: 1.6rem;
-    height: 2.8rem;
+    left: 22rem !important;
+    bottom: 0 !important;
+    width: 1.6rem !important;
+    height: 2.8rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 100% 5%, 0 100%);
     margin-bottom: 0px !important;
@@ -3932,10 +4399,10 @@ p {
   .btn-cta a .microcopy::after {
     content: "";
     position: absolute;
-    left: calc(100% - 0.5rem);
+    left: calc(100% - 0.5rem) !important;
     bottom: 0;
-    width: 1.25rem;
-    height: 1.4375rem;
+    width: 1.25rem !important;
+    height: 1.4375rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 100% 5%, 0 100%);
     margin-bottom: 0px !important;
@@ -3944,13 +4411,13 @@ p {
   .btn-cta a .microcopy::before {
     content: "";
     position: absolute;
-    right: 100%;
-    bottom: 0;
-    width: 1.25rem;
-    height: 1.4375rem;
+    right: 100% !important;
+    bottom: 0 !important;
+    width: 1.25rem !important;
+    height: 1.4375rem !important;
     background-color: var(--clr-blk);
     clip-path: polygon(50% 0%, 0 5%, 100% 100%);
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
   }
 
   .home_voice {
@@ -4074,7 +4541,7 @@ p {
   .planlist__discount__title-txt,
   .planlist__perlesson__title-txt,
   .planlist__reserve__title-txt {
-    font-size: 1rem;
+    font-size: 1rem !important;
     font-weight: 700;
     line-height: normal;
     color: #1b161c;
@@ -4089,7 +4556,7 @@ p {
   }
 
   .planlist__discount__num {
-    font-size: .65rem;
+    font-size: .65rem !important;
     font-weight: 400;
     line-height: normal;
     color: #1b161c;
@@ -4183,7 +4650,7 @@ p {
 
 
 
-@media screen and (max-width: 67.5em) and (min-width: 48em) {
+@media screen and (max-width: 67.5em) and (min-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(1) img {
     top: 0;
     right: -2.5rem !important;
@@ -4213,7 +4680,7 @@ p {
 
 
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--catch strong {
     line-height: 1.6 !important;
     font-size: 1.8rem !important;
@@ -4225,7 +4692,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(3) img {
     left: inherit !important;
     right: -0.5rem !important;
@@ -4235,13 +4702,13 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .fz-sp30 {
     font-size: 1.8rem !important;
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(1) img {
     left: -3rem !important;
     bottom: 36.75rem !important;
@@ -4250,14 +4717,14 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width:35.9375em) {
   .standard .hero--icons li img {
     display: block !important;
     scale: 0.75;
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(4) img {
     left: -0.5rem !important;
     bottom: 0.8rem !important;
@@ -4266,7 +4733,7 @@ p {
 }
 
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--imgs li:nth-child(2) img {
     right: initial !important;
     bottom: 40rem !important;
@@ -4276,7 +4743,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(1) img {
     left: 0.5rem !important;
     top: -2.3rem !important;
@@ -4285,7 +4752,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(2) img {
     left: 10rem !important;
     top: 1rem !important;
@@ -4293,7 +4760,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(4) img {
     left: 25.5rem !important;
     top: 6rem !important;
@@ -4302,7 +4769,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(3) img {
     left: 3.5rem !important;
     top: 0rem !important;
@@ -4311,7 +4778,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(8) img {
     right: 0.3rem !important;
     top: 1.4rem !important;
@@ -4320,7 +4787,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(9) img {
     right: 11.25rem !important;
     top: 4.5rem !important;
@@ -4328,7 +4795,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(7) img {
     left: 6rem !important;
     top: 22.25rem !important;
@@ -4336,7 +4803,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(5) img {
     left: 2.75rem !important;
     top: 25rem !important;
@@ -4345,7 +4812,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(18) img {
     left: 0.8rem !important;
     top: 33.1875rem !important;
@@ -4354,7 +4821,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(14) img {
     right: 14rem !important;
     bottom: 5rem !important;
@@ -4362,7 +4829,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(15) img {
     right: 2.25rem !important;
     bottom: 0.25rem !important;
@@ -4370,7 +4837,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(16) img {
     right: 5rem !important;
     bottom: 1.2rem !important;
@@ -4378,7 +4845,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(19) img {
     right: 23rem !important;
     top: 29.375rem !important;
@@ -4386,7 +4853,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(13) img {
     right: 2.5rem !important;
     bottom: 15rem !important;
@@ -4394,7 +4861,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(20) img {
     left: 3rem !important;
     bottom: 0.65rem !important;
@@ -4403,7 +4870,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(21) img {
     left: 22rem !important;
     bottom: 0.25rem !important;
@@ -4412,7 +4879,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(11) img {
     right: 1rem !important;
     top: 42.125rem !important;
@@ -4422,7 +4889,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(17) img {
     right: 1.375rem !important;
     top: 8.5rem !important;
@@ -4431,7 +4898,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(10) img {
     right: 13.125rem !important;
     top: 43rem !important;
@@ -4441,7 +4908,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .hero--catch p::before {
     content: "";
     position: absolute;
@@ -4460,7 +4927,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(6) img {
     left: 24.6rem !important;
     bottom: 9rem !important;
@@ -4477,7 +4944,7 @@ p {
   display: block;
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--icons li:nth-child(12) img {
     right: 1rem !important;
     top: 46.125rem !important;
@@ -4524,7 +4991,7 @@ p {
   }
 }
 
-@media screen and (max-width: 47.9375em) {
+@media screen and (max-width: 35.9375em) {
   .standard .hero--cont {
     left: 8%;
     right: 8%;
